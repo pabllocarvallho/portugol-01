@@ -10,7 +10,7 @@ programa {
 
     escreva("Tabuada:")
 
-    para (inteiro y=1; y<=10; y++){
+    para (y=1; y<=10; y++){
       escreva(" \n ", x ," x ", y ," = ", (x * y)) 
     
     } 
